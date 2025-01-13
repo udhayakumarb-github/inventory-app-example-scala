@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\udhay\project\scala\invnetory-app-example\target\scala-3.3.4\inventory-app-example_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\udhay\project\scala\invnetory-app-example\target\scala-3.3.4\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\elan[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\udhay\project\scala\invnetory-app-example\target\scala-3.3.4\classes\com\elan[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\elan\ivx[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\udhay\project\scala\invnetory-app-example\target\scala-3.3.4\classes\com\elan\ivx[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\elan\ivx\actor[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\udhay\project\scala\invnetory-app-example\target\scala-3.3.4\classes\com\elan\ivx\actor[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\elan\ivx\actor\HelloActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\udhay\project\scala\invnetory-app-example\target\scala-3.3.4\classes\com\elan\ivx\actor\HelloActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\elan\ivx\actor\HelloActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\udhay\project\scala\invnetory-app-example\target\scala-3.3.4\classes\com\elan\ivx\actor\HelloActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\elan\ivx\actor\HelloActor.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\udhay\project\scala\invnetory-app-example\target\scala-3.3.4\classes\com\elan\ivx\actor\HelloActor.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\elan\ivx\main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\udhay\project\scala\invnetory-app-example\target\scala-3.3.4\classes\com\elan\ivx\main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\elan\ivx\main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\udhay\project\scala\invnetory-app-example\target\scala-3.3.4\classes\com\elan\ivx\main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\elan\ivx\main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\udhay\project\scala\invnetory-app-example\target\scala-3.3.4\classes\com\elan\ivx\main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\elan\ivx\main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\udhay\project\scala\invnetory-app-example\target\scala-3.3.4\classes\com\elan\ivx\main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\elan\ivx\main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\udhay\project\scala\invnetory-app-example\target\scala-3.3.4\classes\com\elan\ivx\main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
